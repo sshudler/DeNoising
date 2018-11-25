@@ -67,7 +67,7 @@ List of files for DeNoising package:
 * `NoiseCleaner.h` - Header for CNoiseCleaner class.
 	
 * `*.dat` - The files that start with `signal` contain 1D signal in various sizes, and
-   the ones that start with 'regression' contain the corresponding wavelet coefficients. 
+   the ones that start with `regression` contain the corresponding wavelet coefficients. 
    These file are used to test the forward and inverse Haar transform methods in CNoiseCleaner 
    class. This files are not essential and are needed only when `CNoiseCleaner::PerformSelfTest` 
    method is activated.
