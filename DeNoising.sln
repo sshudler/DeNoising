@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeNoising_1", "DeNoising_1\DeNoising_1.vcproj", "{559F11F5-62D1-4AC1-9EB0-489FC7C9D6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559F11F5-62D1-4AC1-9EB0-489FC7C9D6AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{559F11F5-62D1-4AC1-9EB0-489FC7C9D6AA}.Debug|Win32.Build.0 = Debug|Win32
+		{559F11F5-62D1-4AC1-9EB0-489FC7C9D6AA}.Release|Win32.ActiveCfg = Release|Win32
+		{559F11F5-62D1-4AC1-9EB0-489FC7C9D6AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
